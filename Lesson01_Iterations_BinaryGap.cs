@@ -10,6 +10,8 @@ using System;
 
 class Solution
 {
+    // this is original author's solution
+    // check BinaryGap.java
     public int solution(int N)
     {
         // Convert class is from System
