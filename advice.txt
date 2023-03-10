@@ -1,0 +1,5 @@
+About the time complexity:
+- Try to achieve at least O(n) with no nested loop, 
+  or loop with other function with O(n)
+- Try to achieve at least O(nlogn) for Array with Sort
+- If using Hashtable, utilize Contains() since it O(1)
